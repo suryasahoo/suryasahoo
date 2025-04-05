@@ -1,4 +1,4 @@
-![logo](https://github.com/suryasahoo/suryasahoo/blob/main/github-header-image%20(3).png)
+
 <h1 align="center">Hi 👋, I'm Surya</h1>
 <h3 align="center">A passionate AI & Machine Learning enthusiast from India</h3>
 <img align="right" width="400" src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg" alt="profile">
