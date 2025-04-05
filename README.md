@@ -1,6 +1,6 @@
 ![logo](https://github.com/suryasahoo/suryasahoo/blob/main/github-header-image%20(3).png)
 <h1 align="center">Hi 👋, I'm Surya</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate AI & Machine Learning enthusiast from India</h3>
 <img align="right" width="400" src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg" alt="profile">
 
 
@@ -8,11 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/i_m_scs" target="blank"><img src="https://img.shields.io/twitter/follow/i_m_scs?logo=twitter&style=for-the-badge" alt="i_m_scs" /></a> </p>
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning and building projects in **Artificial Intelligence and Machine Learning**
 
-- 💬 Ask me about **React,nodejs, js, java, python,**
+- 🤖 Passionate about turning data into real-world AI-powered solutions
 
-- 📫 How to reach me **stack.dsa.22@gmail.com**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, Data Science, and AI tools**
+
+- 📫 Reach me at **stack.dsa.22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
